@@ -1,2 +1,2 @@
-# React-AtomicDesign
+# AtomicDesign
 Created with CodeSandbox
